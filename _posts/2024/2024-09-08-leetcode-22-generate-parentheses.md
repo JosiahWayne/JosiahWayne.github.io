@@ -5,7 +5,6 @@ categories:
   - "菜狗josiah的题解"
 ---
 
-\[mathjax\]
 
 This is quite an interesting question... I used DP to solve this problem(Absolutely not because I checked the answer lol.) I think this question can be used as a great example on how to use DP and in which case DP can be used to program.
 

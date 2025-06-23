@@ -7,7 +7,6 @@ categories:
 
 Following the daily question, today we are doing the problem 11 in Leetcode, a famous (?) problem: "Container With Most Water"
 
-\[mathjax\]
 
 > Firstly, let's take a look at the problem itself:
 > 
